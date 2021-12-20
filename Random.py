@@ -1,3 +1,6 @@
+import random
+changes  = random.randit(1, 9)
+
 while changes < 5:
     if guess == number:
         print('Congratulations you won!!')
