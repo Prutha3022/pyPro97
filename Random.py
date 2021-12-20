@@ -1,5 +1,6 @@
 import random
 changes  = random.randit(1, 9)
+number = input("Enter any nuber:")
 
 while changes < 5:
     if guess == number:
